@@ -1,0 +1,16 @@
+{
+  "name": "react-hook-use-animation",
+  "version": "1.0.0",
+  "description": "A custom react hook to create a status of react component animation. And a custom Modal component based on `useAnimation` hook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-hooks",
+    "useAnimation",
+    "react-animation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
